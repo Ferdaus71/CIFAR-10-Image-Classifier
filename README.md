@@ -108,7 +108,7 @@ CIFAR10-Image-Classification/
 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/CIFAR10-Image-Classification.git
+git clone https://github.com/Ferdaus71/CIFAR-10-Image-Classifier.git
 
 cd CIFAR10-Image-Classification
 ```
