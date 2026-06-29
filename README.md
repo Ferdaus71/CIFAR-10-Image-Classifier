@@ -175,6 +175,8 @@ demo.launch(share=True)
 Add screenshots here:
 
 - Accuracy Graph
+- <img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/57e22364-d1ad-4ad8-af14-1c75184379bd" />
+
 - Loss Graph
 - Confusion Matrix
 - Prediction Result
