@@ -1,8 +1,8 @@
-tensorflow
+tensorflow>=2.15
+gradio>=5.0
 numpy
-pandas
 matplotlib
-seaborn
-scikit-learn
 pillow
-streamlit
+scikit-learn
+pandas
+seaborn
