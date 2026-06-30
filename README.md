@@ -110,7 +110,7 @@ Clone Repository
 ```bash
 git clone https://github.com/Ferdaus71/CIFAR-10-Image-Classifier.git
 
-cd CIFAR10-Image-Classification
+cd CIFAR_10_Image_Classifie
 ```
 
 Install Dependencies
@@ -173,6 +173,8 @@ demo.launch(share=True)
 ## Screenshots
 
 Add screenshots here:
+- Classification Report
+<img width="800" height="447" alt="image" src="https://github.com/user-attachments/assets/189778da-2e29-4282-bf06-9f82e2c9125d" />
 
 - Accuracy Graph
   <img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/57e22364-d1ad-4ad8-af14-1c75184379bd" />
